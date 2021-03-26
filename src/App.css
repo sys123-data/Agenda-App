@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.input-todo{
+  margin-top: -15px;
+}
+
+.element{
+  align-content: center;
+}
+.inputLabel-name{
+  margin-top:10%;
+  margin-left:14%;
+}
+.inputLabel-obs{
+  margin-top:10%;
+  margin-left:50%;
+}
